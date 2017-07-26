@@ -12,3 +12,11 @@ for the template project here: https://wrapbootstrap.com/theme/sphere-material-d
 Any work that I did, separate from the template app, feel free to use any way you would like.  
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+To Run This App: 
+
+* Download/Clone the app
+* cd to the directory you cloned to 
+* From terminal Run `npm install`
+* From terminal Run `npm start`
+* Navigate on your browser to `http://localhost:3000`
